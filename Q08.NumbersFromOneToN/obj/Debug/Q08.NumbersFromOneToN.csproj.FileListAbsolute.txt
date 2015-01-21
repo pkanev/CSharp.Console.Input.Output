@@ -1,0 +1,5 @@
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q08.NumbersFromOneToN\bin\Debug\Q08.NumbersFromOneToN.exe.config
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q08.NumbersFromOneToN\bin\Debug\Q08.NumbersFromOneToN.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q08.NumbersFromOneToN\bin\Debug\Q08.NumbersFromOneToN.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q08.NumbersFromOneToN\obj\Debug\Q08.NumbersFromOneToN.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q08.NumbersFromOneToN\obj\Debug\Q08.NumbersFromOneToN.pdb

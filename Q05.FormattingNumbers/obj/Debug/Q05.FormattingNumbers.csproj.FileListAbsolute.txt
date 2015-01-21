@@ -1,0 +1,8 @@
+c:\users\p.kanev\documents\visual studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\bin\Debug\Q05.FormattingNumbers.exe.config
+c:\users\p.kanev\documents\visual studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\bin\Debug\Q05.FormattingNumbers.exe
+c:\users\p.kanev\documents\visual studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\bin\Debug\Q05.FormattingNumbers.pdb
+c:\users\p.kanev\documents\visual studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\obj\Debug\Q05.FormattingNumbers.exe
+c:\users\p.kanev\documents\visual studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\obj\Debug\Q05.FormattingNumbers.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\bin\Debug\Q05.FormattingNumbers.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\obj\Debug\Q05.FormattingNumbers.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\Console.Input.Output\Q05.FormattingNumbers\obj\Debug\Q05.FormattingNumbers.pdb

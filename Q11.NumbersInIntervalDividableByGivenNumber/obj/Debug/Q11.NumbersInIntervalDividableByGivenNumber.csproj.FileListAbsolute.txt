@@ -1,0 +1,6 @@
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q11.NumbersInIntervalDividableByGivenNumber\bin\Debug\Q11.NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q11.NumbersInIntervalDividableByGivenNumber\bin\Debug\Q11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q11.NumbersInIntervalDividableByGivenNumber\bin\Debug\Q11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q11.NumbersInIntervalDividableByGivenNumber\obj\Debug\Q11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q11.NumbersInIntervalDividableByGivenNumber\obj\Debug\Q11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\Console.Input.Output\Q11.NumbersInIntervalDividableByGivenNumber\obj\Debug\Q11.NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache

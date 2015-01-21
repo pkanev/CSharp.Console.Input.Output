@@ -1,0 +1,5 @@
+c:\users\don piter\documents\visual studio 2013\Projects\Console.Input.Output\Q02.PrintCompanyInformation\bin\Debug\Q02.PrintCompanyInformation.exe.config
+c:\users\don piter\documents\visual studio 2013\Projects\Console.Input.Output\Q02.PrintCompanyInformation\bin\Debug\Q02.PrintCompanyInformation.exe
+c:\users\don piter\documents\visual studio 2013\Projects\Console.Input.Output\Q02.PrintCompanyInformation\bin\Debug\Q02.PrintCompanyInformation.pdb
+c:\users\don piter\documents\visual studio 2013\Projects\Console.Input.Output\Q02.PrintCompanyInformation\obj\Debug\Q02.PrintCompanyInformation.exe
+c:\users\don piter\documents\visual studio 2013\Projects\Console.Input.Output\Q02.PrintCompanyInformation\obj\Debug\Q02.PrintCompanyInformation.pdb

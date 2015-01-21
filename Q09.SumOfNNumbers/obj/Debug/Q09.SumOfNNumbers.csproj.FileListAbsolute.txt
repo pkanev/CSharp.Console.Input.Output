@@ -1,0 +1,5 @@
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q09.SumOfNNumbers\bin\Debug\Q09.SumOfNNumbers.exe.config
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q09.SumOfNNumbers\bin\Debug\Q09.SumOfNNumbers.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q09.SumOfNNumbers\bin\Debug\Q09.SumOfNNumbers.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q09.SumOfNNumbers\obj\Debug\Q09.SumOfNNumbers.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\Console.Input.Output\Q09.SumOfNNumbers\obj\Debug\Q09.SumOfNNumbers.pdb
